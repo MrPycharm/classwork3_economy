@@ -61,5 +61,6 @@ int main()
 
     double result = mean_deviation(storage, rows, columns);
     std::cout << result << "\n";
+    return 0;
 }
  
